@@ -1,0 +1,23 @@
+
+
+.container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+
+button {
+  border: none;
+  outline: none;
+  cursor: pointer;
+  font: inherit;
+  border-radius: 6rem;
+  transition: all 0.3s;
+  padding: 1rem 2.6rem;
+  font-size:1.4rem;
+}
+
+
+

@@ -1,0 +1,80 @@
+
+.container-game {
+    max-width: 540px;
+    display: flex;
+    flex-direction:column;
+    align-items:center;
+}
+
+h1{
+    font-weight: bold;
+    font-family: Monospace, "sans-serif";
+}
+
+.container-game-info{
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    margin: 1rem 1.5rem;
+    
+}
+
+.game-info{
+    background-color: #dfe7ec;;
+    border-radius: 1rem;
+    padding: 1.4rem 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    transition: all .3s;
+    color: #304859;
+    font-weight: bold;
+    font-size:1.2rem;
+}
+
+.cards-grid{
+    display: grid;
+    grid-template-columns: repeat(4, 200px);
+    justify-content:space-between;
+    margin-top: 2rem;
+}
+
+.cards-container{
+    margin: 2rem;
+}
+.container-controllers{
+    width: 100%;
+    display: flex;
+    justify-content:space-between;
+}
+.menu-main{
+    display: flex;
+    grid-gap: 2rem;
+    gap: 2rem;
+}
+.btn-main{
+    background-color: #DFE7EC;
+    color: #fff;
+}
+.btn-main:hover{
+    background-color: #304859;
+    color: #fff;
+}
+
+.btn-reset{
+    background-color: #fda214;
+    color: #fff;
+
+}
+.btn-reset:hover{
+    background-color: #ffb84a;
+    color: #fff;
+}
+
+.btn-options{
+    padding: .2rem;
+    background-color: #2b6cb0;
+    color: #FFF;
+    border-radius: 6px;
+}
