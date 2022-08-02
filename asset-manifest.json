@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/memory-game-react/static/css/main.1706928d.css",
+    "main.js": "/memory-game-react/static/js/main.3fdaebc8.js",
+    "static/js/787.e5aa7ed4.chunk.js": "/memory-game-react/static/js/787.e5aa7ed4.chunk.js",
+    "static/media/jenkins.svg": "/memory-game-react/static/media/jenkins.19a23b0ef36f5ff679cfbec14bb13c69.svg",
+    "static/media/sass.svg": "/memory-game-react/static/media/sass.774eb7275b984775f47565ab549b3671.svg",
+    "static/media/nodejs.svg": "/memory-game-react/static/media/nodejs.90ce3341005973b8478e90bb12847879.svg",
+    "static/media/golang.svg": "/memory-game-react/static/media/golang.61f21233fe51337347eb4c3ef2d3218a.svg",
+    "static/media/mariadb.svg": "/memory-game-react/static/media/mariadb.af9e5b855753cd2ad5d13cd387dc074c.svg",
+    "static/media/docker.svg": "/memory-game-react/static/media/docker.61da8941453f5fae4457cf81357dac18.svg",
+    "static/media/github.svg": "/memory-game-react/static/media/github.d457f4864496bd375f5b2bcb3cef166b.svg",
+    "static/media/react.svg": "/memory-game-react/static/media/react.aec3bee0e7edc22f1fcff7ec6460636a.svg",
+    "static/media/mongodb.svg": "/memory-game-react/static/media/mongodb.ec46874089a89756ef149ec26538d015.svg",
+    "static/media/webpack.svg": "/memory-game-react/static/media/webpack.33e99f3dd431f180e33cf2ed42304e6f.svg",
+    "static/media/javascript.svg": "/memory-game-react/static/media/javascript.4f24cf180c12a2f1277e06d33ee6744e.svg",
+    "static/media/git.svg": "/memory-game-react/static/media/git.cb738a04d0b5d33a51e4aaacbc7d6d4e.svg",
+    "index.html": "/memory-game-react/index.html",
+    "static/media/angular.svg": "/memory-game-react/static/media/angular.d3127487a7f5398244a839157c0c46fc.svg",
+    "static/media/typescript.svg": "/memory-game-react/static/media/typescript.96ae10adae5a79b5003a81af58703283.svg",
+    "static/media/css.svg": "/memory-game-react/static/media/css.869cd07316c35754a9ab5dc4fdb6da33.svg",
+    "static/media/html.svg": "/memory-game-react/static/media/html.bd2051b8de92a11bcad1f4a727b7e287.svg",
+    "static/media/npm.svg": "/memory-game-react/static/media/npm.97df5df7060621ee0539d77f3052f024.svg",
+    "static/media/vue.svg": "/memory-game-react/static/media/vue.fb1d6ba1eb85297e2c72badb6822005a.svg",
+    "main.1706928d.css.map": "/memory-game-react/static/css/main.1706928d.css.map",
+    "main.3fdaebc8.js.map": "/memory-game-react/static/js/main.3fdaebc8.js.map",
+    "787.e5aa7ed4.chunk.js.map": "/memory-game-react/static/js/787.e5aa7ed4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1706928d.css",
+    "static/js/main.3fdaebc8.js"
+  ]
+}
